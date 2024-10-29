@@ -10,6 +10,7 @@
 ![mail](https://github.com/user-attachments/assets/56313119-3c22-4b45-bd91-e3b9dd58d3d6)
 
 1. Результат выполнения 1.sql:
+   
 ![1](https://github.com/user-attachments/assets/ba8fa0af-bc1f-4944-8d49-63fa337a0d51)
 
 2. Результат выполнения 2.sql:
